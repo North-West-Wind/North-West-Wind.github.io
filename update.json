@@ -1,5 +1,8 @@
 {
     "homepage": "https://github.com/North-West-Wind/forge-autofish/",
+    "1.16.4": {
+        "1.0.5": "1.16.4 Release"
+    },
     "1.16.3": {
         "1.0.5": "1.16.3 Release"
     },
@@ -44,6 +47,8 @@
         "1.0.4": "1.8.9 Release"
     },
     "promos": {
+        "1.16.4-latest": "1.0.5",
+        "1.16.4-recommended": "1.0.5",
         "1.16.3-latest": "1.0.5",
         "1.16.3-recommended": "1.0.5",
         "1.16.2-latest": "1.0.5",
