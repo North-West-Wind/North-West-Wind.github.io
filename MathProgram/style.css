@@ -1,0 +1,26 @@
+body {
+    background-color: #2C2F33;
+    color: #eeeeee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.program {
+    font-size: 3vh;
+    display: inline;
+    line-height: 1.5;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.note {
+    font-size: 2vh;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: gold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
